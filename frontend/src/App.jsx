@@ -98,8 +98,8 @@ function App() {
     <div className="app">
       {/* App Header */}
       <div className="app-header">
-        <h1>MERN Stack CRUD Application</h1>
-        <p>Manage your items with Create, Read, Update, and Delete operations</p>
+        <h1>Item Management</h1>
+        <p>Manage your items with Creating, Reading, Updating, and Deleting</p>
       </div>
 
       {/* Success Message */}
